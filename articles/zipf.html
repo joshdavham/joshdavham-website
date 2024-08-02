@@ -31,7 +31,7 @@
             For the first post in this series I wanted to cover Zipf’s law. Zipf’s law, in the context of natural language, describes the relationship between how often words occur, and their ‘rank’ relative to other words in the text. It’s probably best to explain it with a graph.
         </p>
 
-        <img src="/en.png">
+        <img src="./en.png">
 
         <p>
             The above graph plots the number of times each word occurs in the English novel “Pride and Prejudice". In this graph, each point is a unique word that occurred in the novel. Now if you squint your eyes and look at the first four points near the top left, you’ll notice that these four words occur disproportionately more often than the other words. These points represent the words ‘the’, ‘to, ‘of’ and ‘and’ which are the four most common words in the book. Other common words in the book are words like ‘her’, ‘she’, ‘be’, ‘in’, and ‘what’, but after those first couple of extremely common words, there’s a steep drop. The rest of the words like ‘concise’, ‘stubborn’, ‘harmony’ also occur in the book, but are far less frequent. Those words can be seen on the bottom right of the graph.
@@ -45,7 +45,7 @@
             Here’s the same analysis, but in French with the book “Madame Bovary”.
         </p>
 
-        <img src="/en_fr.png">
+        <img src="./en_fr.png">
 
         <p>
             As can be seen in the graph above, we get the same-shaped curve. Even though the languages and books were different, the behavior was the same.
@@ -65,7 +65,7 @@
             One cool thing about power laws is that there’s a much nicer way to visualize them using a log-log plot.
         </p>
 
-        <img src="/log_en_fr.png">
+        <img src="./log_en_fr.png">
 
         <p>
             If you’re not familiar with what a log-log plot is, don’t worry about it, it’s just another way to visualize power law data, but in a nicer way.
@@ -75,7 +75,7 @@
             Here, we have the log-log plot for four different languages from four different books:
         </p>
 
-        <img src="/log_en_fr_zh_el.png">
+        <img src="./log_en_fr_zh_el.png">
 
         <p>
             Once again, we can see that each language exhibits the same behavior. 
@@ -85,7 +85,7 @@
             In fact, <a href="http://bactra.org/weblog/491.html">while you’re technically not supposed to do this</a>, you can actually model these curves quite accurately with straight lines using a linear regression model.
         </p>
 
-        <img src="/pred_log_en_fr_zh_el.png">
+        <img src="./pred_log_en_fr_zh_el.png">
 
         <p>
             What we can see above is that the Zipf phenomenon is actually pretty easy to model and make predictions with, which can be quite useful for research purposes.
