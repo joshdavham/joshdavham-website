@@ -2,17 +2,20 @@
     import "../app.css";
 </script>
 
-<header>
+<header class="mb-3 mt-3">
     <nav id="primary-nav">
         <ul>
-            <li>
-                <a href="/" id="my-progress-link">Home</a>
-                <a href="/articles" id="my-progress-link">Articles</a>
-                <a href="/about" id="my-progress-link">About</a>
-                <a href="/contact" id="my-progress-link">Contact</a>
+            <li class="flex space-x-0">
+                <a href="/" class="text-black hover:bg-gray-300 rounded px-1 py-2">Home</a>
+                <a href="/articles" class="text-black hover:bg-gray-300 rounded px-2 py-2">Articles</a>
+                <a href="/about" class="text-black hover:bg-gray-300 rounded px-2 py-2">About</a>
+                <a href="/contact" class="text-black hover:bg-gray-300 rounded px-2 py-2">Contact</a>
             </li>
         </ul>
     </nav>
 </header>
+
+<style>
+</style>
 
 <slot />
