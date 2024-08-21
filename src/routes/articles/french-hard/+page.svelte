@@ -2,19 +2,6 @@
     <title>Why French is so hard to understand.</title>
 </svelte:head>
 
-<header>
-    <nav id="primary-nav">
-        <ul>
-            <li>
-                <a href="/" id="my-progress-link">Home</a>
-                <a href="/articles" id="my-progress-link">Articles</a>
-                <a href="/about" id="my-progress-link">About</a>
-                <a href="/contact" id="my-progress-link">Contact</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-
 <h1>Why French is so hard to understand</h1>
 
 <p>One of the first things new French learners notice early on is just how hard the language is to understand. It’s not obvious to most French learners why this is; only that French seems to become significantly harder when it moves from words on a page to words coming out of another person’s mouth.</p>

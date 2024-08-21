@@ -2,19 +2,6 @@
     <title>Articles</title>
 </svelte:head>
 
-<header>
-    <nav id="primary-nav">
-        <ul>
-            <li>
-                <a href="/" id="my-progress-link">Home</a>
-                <a href="/articles" id="my-progress-link">Articles</a>
-                <a href="/about" id="my-progress-link">About</a>
-                <a href="/contact" id="my-progress-link">Contact</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-
 <ol>
     <li><a href="/articles/zipf">Science of Language Learning: Zipf's Law</a></li>
     <li><a href="/articles/english-threshold">The English Threshold</a></li>
