@@ -1,0 +1,3 @@
+@tailwind base;/*base is repsonsible for setting up the base styles in tailwind. Removing it may have unintended consequences*/
+@tailwind components;
+@tailwind utilities;
