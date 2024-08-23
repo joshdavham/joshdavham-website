@@ -1,12 +1,11 @@
-import { error } from '@sveltejs/kit';
-import { posts } from '../data.js';
+import { loadMarkdown } from "$lib/markdown";
 
 export function load({ params }) {
-    const post = posts.find((post) => post.slug === params.slug);
+    const { slug } = params;
 
-    if (!post) throw error(404);
+    const { content, metadata } = loadMarkdown(slug);
 
     return {
-        post
+        content
     };
 }
