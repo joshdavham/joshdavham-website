@@ -6,8 +6,6 @@ order: 3
 
 # The English Threshold
 
-<br />
-
 Most language learners will probably agree that one of the most demoralizing parts of the whole language learning process is attempting to speak your target language with a native speaker, only for that speaker to then switch to English on you.
 
 This situation is so common in fact, that I’ve even heard some language learners refer to it as “getting English’d”.

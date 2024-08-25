@@ -6,8 +6,6 @@ order: 4
 
 # Science of Language Learning - Zipf's Law
 
-<br />
-
 I’ve decided to start a series of short blog posts where I’ll be exploring some of the concepts and ideas behind modern language learning that I find interesting and important. The series will be called the ‘Science of Language Learning’ and will touch on things like frequency lists, spaced repetition and word coverage, among other things.
 
 For the first post in this series I wanted to cover Zipf’s law. Zipf’s law, in the context of natural language, describes the relationship between how often words occur, and their ‘rank’ relative to other words in the text. It’s probably best to explain it with a graph.

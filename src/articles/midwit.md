@@ -6,14 +6,10 @@ order: 2
 
 # Explaining the Midwit meme
 
-
-“An idiot admires complexity. A genius admires simplicity.”
+> An idiot admires complexity. A genius admires simplicity.
 -- Terry Davis
 
-
 I’ve been obsessed with the Midwit meme for a little over a year now. If the name doesn’t ring a bell, it’s this one:
-<br />
-<br />
 ![Midwit meme template](/article_assets/midwit.jpg)
 
 
@@ -21,25 +17,9 @@ The meme is is as follows: it’s an IQ “bell curve” where the idiot and the
 
 
 Here are a couple of my favorite examples:
-<br />
-<br />
-<br />
-<br />
 ![Midwit meme about overcomplicating losing weight.](/article_assets/diet.png)
-<br />
-<br />
-<br />
-<br />
 ![Midwit meme about overcomplicating note taking.](/article_assets/productivity.jpeg)
-<br />
-<br />
-<br />
-<br />
 ![Midwit meme about the CEFR complicating language proficiency.](/article_assets/cefr.png)
-<br />
-<br />
-<br />
-<br />
 ![Midwit meme mocking people who don't make speak generally about things.](/article_assets/general.png)
 
 The reason I think this meme fascinates me so much is that I feel like I see it occuring around every corner, especially in my areas of interest, namely language learning and software development.

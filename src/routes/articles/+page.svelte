@@ -6,8 +6,10 @@
     export let data;
 </script>
 
-<ol>
-    {#each data.summaries as {slug, title }}
-        <li><a href="/articles/{slug}">{title}</a></li>
-    {/each}
-</ol>
+<div class="ml-2">
+    <ol class="list-disc list-inside">
+        {#each data.summaries as {slug, title }}
+            <li><a href="/articles/{slug}">{title}</a></li>
+        {/each}
+    </ol>
+</div>

@@ -6,8 +6,6 @@ order: 1
 
 # Why French is so hard to understand
 
-<br />
-
 One of the first things new French learners notice early on is just how hard the language is to understand. It’s not obvious to most French learners why this is; only that French seems to become significantly harder when it moves from words on a page to words coming out of another person’s mouth.
 
 This problem isn’t completely unique to French, though. Pretty much all language learners report that the spoken language is harder to understand than the written language (even Chinese and Japanese learners often agree). The consensus among some language learners is that, it’s not that the language you were unfortunate enough to choose is particularly hard to understand, it’s that all languages are hard to understand. And while I partially agree with this, I actually do believe that French is uniquely hard to understand in ways that other languages are not.
@@ -55,14 +53,9 @@ Closely related to liaison is “elision” which is when one word is cut short 
 
 In this sentence, you can see where the elisions are by looking at the apostrophes ( ‘ ).
 
-
 We can actually further break this sentence down into what it would’ve been without the elisions to get the following:
 
-<br />
-<br />
-Le homme que on a vu à le hôtel ne a rien dit.
-<br />
-<br />
+> Le homme que on a vu à le hôtel ne a rien dit.
 
 Which shows that
 
@@ -83,18 +76,12 @@ Chinese doesn’t have stress but instead has tones where the tone of each sylla
 
 But “what does French have?”, you might be wondering. Well, none of those. It doesn’t have stress, tones, pitch accent or even syllables that are held longer than others.
 
-
 Now you may think that the lack of intonation in French would make it easier to learn, and in some ways it does, but it also makes the language a lot harder to understand. Imagine, for example, if I waved a magic wand and made stress disappear completely from English. Do you think that would make English easier to understand? What about if we got rid of tones in Chinese?
-
 
 --
 
-
 If we now combine all of the above, we get a nasally language that systematically chops up and strings its words together and is, on the whole, kinda flat. It’s not particularly surprising then that people learning this language would complain that it’s hard to understand. This language is basically the phonetic equivalent of messy handwriting.
 
-
 But there is a bright side to this. A language with these qualities is also a language that is soft on the ears, flows poetically and sounds sorta …romantic?
-
-
 
 Ironically, what makes the French language so hard to understand might also be what makes it so beautiful.

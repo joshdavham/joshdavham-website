@@ -7,4 +7,6 @@
     My main interests are in second language acquisition, startups, data science and software development.<br />
     ... and yeah that's about it!
 </p>
-<p>You can find my resume <a href="resume.pdf" target="_blank">here</a>.</p>
+<p>You can find my resume 
+    <a href="resume.pdf" target="_blank" class="underline text-blue-500 hover:text-blue-700">here</a>.
+</p>
