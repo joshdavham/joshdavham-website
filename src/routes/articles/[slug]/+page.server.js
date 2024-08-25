@@ -6,6 +6,6 @@ export function load({ params }) {
     const { content, metadata } = loadMarkdown(slug);
 
     return {
-        content
+        content, metadata
     };
 }
