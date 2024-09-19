@@ -22,7 +22,6 @@
 	"dependencies": {
 		"@tailwindcss/typography": "^0.5.14",
 		"gray-matter": "^4.0.3",
-		"markdown-it": "^14.1.0",
-		"netlify-cli": "^17.34.2"
+		"markdown-it": "^14.1.0"
 	}
 }
