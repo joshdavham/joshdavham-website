@@ -8,5 +8,5 @@
     ... and yeah that's about it!
 </p>
 <p>You can find my resume 
-    <a href="resume.pdf" target="_blank" class="underline text-blue-500 hover:text-blue-700">here</a>.
+    <a href="joshua_hamilton_resume.pdf" target="_blank" class="underline text-blue-500 hover:text-blue-700">here</a>.
 </p>
